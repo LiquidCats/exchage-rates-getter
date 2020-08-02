@@ -1,9 +1,8 @@
 # exchage-rates-getter
 
-We are using for getting crypto exchange rates for our day 
-instagram stories
+We are using this tool for getting crypto exchange rates for our day instagram stories
 
-It is simple to use: 
+## How to use 
 
 1. Configure Env 
 
